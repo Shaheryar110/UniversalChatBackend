@@ -1,0 +1,392 @@
+[
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "2Nu2Z1CmAaXb3YFVmJF9W7k2sio1",
+    "datetime": "17 Jun 2023 03:11 PM",
+    "description": "All assets are left to Elizabeth Mayster to disperse as she sees fit to the following people:\n \n1. Richard Paul Ussery\n2. Megan Udesky\n3. Finn Mouscher\n4. Alexander Roeske\n5. Elizabeth Mckibben\n6.Kaley Wendt\n7. Courtney Bilstein\n8. Aayla Rose Courtney\n\nRichard Paul Ussery  will also assume responsibly for my cats in case of emergency. In the event he cannot care for them responsibility then goes to Aayla Rose Courtney\n\nAny remaining assests are to go towards various charities given on an addendum to Elizabeth Mayster.\n\nControl of the Ourt Collective is to be left equally to Richard Paul Ussery and Hannah Misiek.\n\nBe a of beacon of light in this bleak world. Be the reason someone has a great day!\n",
+    "id": "021294b6-bedd-4e99-8a07-5c3e1095206a",
+    "title": "Living will",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "V3YKLPW0idamdcteQAU55dNMKQh2",
+    "datetime": "15 Nov 2023 04:03 PM",
+    "description": "",
+    "id": "03504b32-878f-47c4-8ff7-ae8b92b732b4",
+    "title": "My emergency contact Is Elizabeth Ellis 915-346-9972. Make it so she has 2 follow my living will. I have a plastic jar in my home with a Minnie Mouse and Figerol cat inside it and a teddy bear knick knack. I want that buried with me in my coffin. I want the song Jarreau Vandal-Westside, and Selina-Dreaming Of You to be plaid at my funeral if I'm not married when I die. And the songs Jarreau Vandal-Westside if I'm married. And no matter what I am DNR and DNI.",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "2Nu2Z1CmAaXb3YFVmJF9W7k2sio1",
+    "datetime": "17 Jun 2023 02:49 PM",
+    "description": "Environmental charity \nArt for kids charity\nAnimals charity\n",
+    "id": "089be21e-1031-41be-bb72-0738710f452a",
+    "title": "Add Courtney and megan",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "uid": "KS3P6f8spvfgkIE1L7JzZ9TuqU23",
+    "videoPath": "",
+    "datetime": "18 Jan 2024 10:47 AM",
+    "description": "I’m having surgery today.\n\nIf anything goes wrong my mother will decide all care. \n\nHer name is Dinnell McCabe\n\n803 394 1556\n\nDdtk08@aol.com\n\n\nShe lives in Dalzell, SC on \n2074 Four Bridge rd.\n\nI leave all of my possessions to my mother including but not limited to house, car and all banking finances.\n\nSigned Katrina N Kelley",
+    "id": "0b71da73-8af4-4e52-9299-a3015b1171a8",
+    "title": "My Will",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "LiHPi7VhL4adnh9HXAu2708bHyH2",
+    "datetime": "19 Jun 2023 11:39 AM",
+    "description": "The land is to be rented out andthe money is to be put in a trust for the grandbabies .",
+    "id": "0d35c201-e533-4e13-958e-ae8b23f85785",
+    "title": "The land",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "7QmeCXi0skZqDaxi0m4R76wFiT23",
+    "datetime": "5 May 2023 04:29 PM",
+    "description": "",
+    "id": "0fbff595-7586-4f9c-b7e1-70a008d7e8b2",
+    "title": "After my death my stepfather Brooklyn will get my 2 parakeets and my tablet and cellphone and my brother ",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "XJVB9bPn5tTPko7wlFNJ5pPFBNd2",
+    "datetime": "23 Jun 2023 01:57 PM",
+    "description": "Great 😃",
+    "id": "14c8f882-60d4-47e1-bb9d-f8d02f6adcf8",
+    "title": "Always revive the life with life support and out lift myself and my child out of death into alive to call our insurance team provider if the assistance is needed and to assist with American red cross aed and cpr all the time",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "uVyBCYtmzJgWR8aXajPXkzcBHuD2",
+    "datetime": "19 Feb 2024 05:46 AM",
+    "description": "Sister - Tracy Geraghty\nBrother - Brian Geraghty\n\nTracy's Daughter (Nieces)\nLindsey DiCristina\nCaitlyn Ryan/Todd\nErin Ryan\n\nTracy Geraghty will be my #1 contact she will make all final arrangements if something were to happen to me:\nTracy # is: (773) 416-2347\n\n#2 Contact is \nBrian Geraghty \nCell # is:  (773) 663-2226\n\nBrian's children\nEric Geraghty\nChristine Barnett\nKyle Geraghty & his wife Jasmyn Geraghty \n\nIf something were to happen Tracy & or Brian before I go Lindsey DiCristina would be my 3 form of contract:\nLindsey Call # is: \n(773) 699-3854",
+    "id": "17581cd9-7bc7-45f8-a34c-07a3563073ab",
+    "title": "My Wishes ",
+    "audioPath": ""
+  },
+  {
+    "uid": "CJlmd2fKbEQbKdqq4UGo8NJiyBg2",
+    "videoPath": "",
+    "path": "",
+    "datetime": "12 Aug 2023 03:23 PM",
+    "description": "Not well",
+    "id": "1f0b21aa-2d58-443a-9b4a-39eb935a85e4",
+    "title": "H",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "videoPath": "",
+    "uid": "Lx5TqWS5vZXza8Rjtzx2IKAiG0n2",
+    "id": "2fe71fe1-6218-44f3-b5bc-f08d31304d6c",
+    "audioPath": "",
+    "datetime": "3 Jun 2023 06:45 AM",
+    "description": "1)Hair palmod-Harveys\n2)Soap for shaving and shampoo 2 in 1-Kiehls\n3)Dixie cleaners\n4)eye cream puffy/dark under eye-same\n5)lip balm roller type-same\n6) midtown rx noon Tuesday \n7)clear deodorant -Harveys\n8)long cut wintergreen grizzly dipping tobacco \n9)Kiehls facial body lotion\n10)agua di gio spray and lotion Giorgio Armani and Emporio Armani tube'grey spray\n",
+    "title": "To do list for comfort care/hair, face, body"
+  },
+  {
+    "path": "",
+    "uid": "5q6FIBTP57Uw5p0e9uougzdGseq2",
+    "videoPath": "",
+    "datetime": "12 Dec 2023 09:36 PM",
+    "description": "Asdasd",
+    "id": "33d11448-cab4-479b-94c1-0c0b869bd50f",
+    "title": "Asasdd",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "videoPath": "",
+    "uid": "Lx5TqWS5vZXza8Rjtzx2IKAiG0n2",
+    "id": "33f2b43e-739c-48f0-bf89-56f84e9358c5",
+    "title": "My to do list",
+    "audioPath": "",
+    "datetime": "2 Jun 2023 09:27 PM",
+    "description": "1)call for/check-visual/dental/life/and long-term care insurance\n2)remaining t mobile the 9th\n3)A&F no credit-order when credited+\n4)call apple for pw\n5)call AIG AGAIN/ask for email or other means to change next of kin on my beneficiary\n6)call attorney Owens(don't believe I'll need but still should call\n7)glasses+\n8)walmart-paper clip,card case,watch band,cologne,Emporio/polo products.\n9)GA sunglasses\n10)Armani exchange jns/jacket/T\n11)Emporio for striped dress and solid dress shirts\n12)RRL Henley/polo dress and polo shirt and belt\n13)Bank again for Now card print for ~ 200.00\n14)pill box, better gadgets/light for keychain and fossil card case and PC money clips\n15)excursion to public storage\n16)seiko/EA or ebay Rolex\n17)call regions when everything posts go over again and call visa"
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "XJVB9bPn5tTPko7wlFNJ5pPFBNd2",
+    "datetime": "23 Jun 2023 01:59 PM",
+    "description": "All my accounts would go to my child and insurance would be assisted by Robert for my Child. \nAdvance directive is to life support the life ",
+    "id": "438b23d3-5ed1-4131-ad8e-aa4b709c4352",
+    "title": "Living will",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "uid": "j6SpwIlvzERq1Q2SSmXV8CgNMp93",
+    "videoPath": "",
+    "datetime": "23 Dec 2023 10:11 AM",
+    "description": "Congested sinus and chest. Back pain. Can’t wait for it to be over. Hope my wife or kids don’t get sick!",
+    "id": "4a59a94e-e47a-48c4-9189-cd75d960bc3f",
+    "title": "Covid",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "uid": "Dwo9yyk6Z3cR5zyk1NO1reFPAHr1",
+    "videoPath": "",
+    "datetime": "22 Jan 2024 05:10 PM",
+    "description": "Good ",
+    "id": "5a192a15-6c82-4b07-a2e2-9ee1e77e3240",
+    "title": "Will ",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "uid": "5q6FIBTP57Uw5p0e9uougzdGseq2",
+    "videoPath": "",
+    "datetime": "14 Dec 2023 01:56 AM",
+    "description": "Hello",
+    "id": "5b45078a-3031-4548-8a80-4f0fa3d5d05d",
+    "title": "Hi",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "fVauvjZRNLYebiuo5wVSljsYdKw2",
+    "datetime": "30 Jun 2023 01:54 AM",
+    "description": "They took me done with no mess given for a CT & was not successful. Tried again with meds intermusclar.\nTried 3 times with iv. Got another nurse & got it.\nJoe's back from work.",
+    "id": "66655a36-08c7-42f7-a170-a6ade529bbf4",
+    "title": "Torture ",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "G0bcGeeJKJfUq1jB3Dbtw6jPhBn1",
+    "datetime": "21 Aug 2023 08:11 PM",
+    "description": "Patricia ann Roberts, Amber lee Stansberry, Lucas alan Moore. \nThese are the three people I leave whatever I have left in this world.",
+    "id": "6773364a-8f0c-4d5e-b6a2-19bd6d86a93a",
+    "title": "To my Loved ones. To ",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "VkOMBZwlXLZp9EisuqXbWTGCcUG3",
+    "datetime": "14 Sep 2023 09:29 PM",
+    "description": "",
+    "id": "6e8a6ed8-4c00-4bb2-b307-0d9641b14162",
+    "title": "Certified Medical Assistant ",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "uid": "P7OUJbrZxKN50c8LajOWhklC1D12",
+    "videoPath": "",
+    "description": "Asdsd",
+    "id": "7a119efb-d40e-4067-822c-31276b16bed3",
+    "title": "AdAsdd",
+    "audioPath": "",
+    "datetime": "14 Dec 2023 11:14 PM"
+  },
+  {
+    "uid": "xgx6PyCkGrWscrLz9VEXVEp04xv1",
+    "videoPath": "",
+    "path": "",
+    "datetime": "13 Mar 2023 11:04 PM",
+    "description": "having a vomit feel\n",
+    "id": "7b54e040-2da6-4544-b4c2-11f1b3ec73de",
+    "title": "fever",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "ws0LjwleHYMTiqJO6CC7TfWxJYl2",
+    "datetime": "13 Jun 2023 04:25 PM",
+    "description": "\n\n\n\n",
+    "id": "83d729f6-0200-4d4c-a6cf-47b5c9849e0b",
+    "title": "",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "LiHPi7VhL4adnh9HXAu2708bHyH2",
+    "datetime": "13 Jun 2023 11:01 AM",
+    "description": "This is who I was ",
+    "id": "849005df-2b95-44d8-a102-98286345693b",
+    "title": "Who am I ",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "fVauvjZRNLYebiuo5wVSljsYdKw2",
+    "datetime": "30 Jun 2023 06:50 PM",
+    "description": "Got caught with Vape. In terrible pain.  Pain lady said she was going to raise pain meds but didn't.\nFinally got a shower.",
+    "id": "85539b28-a217-4ec0-a76d-50467aa8442b",
+    "title": "Shower",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "videoPath": "",
+    "uid": "Lx5TqWS5vZXza8Rjtzx2IKAiG0n2",
+    "id": "87ea2c20-fd73-430a-bf7f-0fcf35fb3b81",
+    "audioPath": "",
+    "datetime": "3 Jun 2023 06:31 AM",
+    "description": "I David Dodd Ozment do hereby state that Elmo Dodd Ozment, my father, has all and complete say and control over my wishes/advance directives as well as being my next of kin, complete benefactor for all my assets, liquid as well as belongings in storage, power of attorney and access to my bank accounts which he is now added as a co signer, I also wish that my aunt Barbra C Rhodes has a say in my care if I am incapacitated  and how my assets are distributed along with my father, inheritor of any and all benefits from my long-term disability policy as well. Any prior next of kin attached to my disability policy is here by null and void. \nIn the event of his death prior to mine my step mother Suzanne Ozment and my cousin Deborah Vollberg are to be my\n next of kin with the same permissions and say as my father had as per above.\n\nDavid D Ozment, D.O.\n6/3/23\n\n",
+    "title": "Living will/Advance directives"
+  },
+  {
+    "path": "",
+    "uid": "aQF8aGj0INSxCYlqAXngyWnGaSs1",
+    "videoPath": "",
+    "datetime": "28 Nov 2023 10:50 PM",
+    "description": "Asdasd",
+    "id": "8982250f-6508-469f-af7c-66d7f6da588d",
+    "title": "Asdsd",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "uid": "KS3P6f8spvfgkIE1L7JzZ9TuqU23",
+    "videoPath": "",
+    "datetime": "18 Jan 2024 10:52 AM",
+    "description": "I am signing this will freely and on my own free will. On 1/18/2024 at 10:51am in Washington, DC. \n\nPlease accept note 1 and 2 as my official wishes. \n\nMy mother will have power of attorney and executive of my estate.\n\nI leave everything to her.\n\nLove you Mom.  See you when I get out of surgery.\n\nThis note is stamped with date and time so hopefully it will be accepted as my official will.",
+    "id": "8ce1aa06-52fb-49a8-90a3-4c84f4768711",
+    "title": "My Will",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "Lx5TqWS5vZXza8Rjtzx2IKAiG0n2",
+    "datetime": "5 Jun 2023 04:39 AM",
+    "description": "I, David D Ozment being of sound mind do hereby state that Elmo Dodd Ozment and Bobby C Rhodes are my next of kin and benefactors of all my assets, permissions in my health if I were incapacitated and inheritors of my long-term disability policy with AIG and my belongings in public storage as well as any and all moneys in any and all banks.\nIf something happens to either of them prior to my death then Suzanne Ozment, my step mother, and Deborah Vollberg are to have the same and complete permissions and control of any and all assets.\nI would like my debts to as many physicians and facilities or/and care givers I might owe a debt to and for my niece Sarah to be given a part of my assets as she is the only relative apart from my father that's shown any concern.\nI would also like Howard Matteny, known as taxi Howard to receive an appropriate amount due to the fact that he has gone out of his way at any time to help in anyway he could far more than the cost of his services.\n\nDavid D Ozment,D.O.\n06/05/2023\n ",
+    "id": "8db8ec48-dc09-4b09-94a3-b423769e73fb",
+    "title": "My living will and advance directives ",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "uVyBCYtmzJgWR8aXajPXkzcBHuD2",
+    "datetime": "19 Feb 2024 06:17 AM",
+    "description": "My Living Will\n\nSister - Tracy Geraghty\n   Tracy's Daughter's\nLindsey DiCristina\nCaitlyn Ryan -Todd\nErin Ryan\n\nBrother - Brian Geraghty\n    Brian's Children\nEric Geraghty\nChristine Barnett\nKyle Geraghty & his wife Jasmyn Geraghty\n\n#1 Contact if something were to happen to me is Tracy Geraghty # (773) 416-2347\nTracy Geraghty will be taking care of all my arrangements:\n\n#2 Contact is:\nBrian Geraghty # (773) 663-2226\n\n#3 Contact is:\nLindsey DiCristina # (773) 699-3854\n\nI wish not to be buried under ground either cremated a last resort...\nMy #1 wish would be cremated ashes then placed in a shoe box then thrown over the Grand Canyon in Az.\n\nAll my personal affects will go to my Sister & Brother they can decide it up as they see fit...\n\nWith the exception of my mother's wedding ring that will go directly to Tracy Geraghty: \nIf God forbid she goes before me then Brian Geraghty will take control of the ring & hand if over to first oldest Grandchild of my mother Carol Geraghty unless he chooses to hold it for himself in memerance of our mother:  \n\n",
+    "id": "8fb07ecb-ce6d-4ecd-b46d-2a515357353b",
+    "title": "My Living Will",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "videoPath": "",
+    "uid": "Lx5TqWS5vZXza8Rjtzx2IKAiG0n2",
+    "id": "997fbb30-d9a5-4881-9b32-7ef0d27f6083",
+    "title": "Tomorrow Friday June 2nd",
+    "audioPath": "",
+    "description": "1)DL+\n2)change address+\n3)po box\n4) Hillcrest T. P.+\n",
+    "datetime": "3 Jun 2023 06:12 AM"
+  },
+  {
+    "path": "",
+    "uid": "P7OUJbrZxKN50c8LajOWhklC1D12",
+    "videoPath": "",
+    "datetime": "14 Dec 2023 11:14 PM",
+    "description": "Dddfggsdfg",
+    "id": "bc260c08-f10b-4e10-94f3-a6f6f4a5b654",
+    "title": "Adsfdsfa",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "VkOMBZwlXLZp9EisuqXbWTGCcUG3",
+    "datetime": "14 Sep 2023 07:22 PM",
+    "description": "Concerned about my future ",
+    "id": "bfee89b5-ad03-4c1d-a055-de6b0381284e",
+    "title": "Certified Medical Assistant ",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "LiHPi7VhL4adnh9HXAu2708bHyH2",
+    "datetime": "10 Jun 2023 07:51 PM",
+    "description": "I love you girl's I'm so thankful for the grandbabies y'all blessed me with. I never knew how my love my heart could hold until God gave me you girl's. Then my heart overflowed with love when God blessed me with grandbabies. \nPlease for give me for not being the mother and grandmother y'all deserved . ",
+    "id": "d99ca7cb-2f0b-4f63-8dca-821301dcc151",
+    "title": "I just want my kids to know I love them until my last breath.",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "uid": "BTbf6jqLW8WxR6hhJhvNsySpG1p2",
+    "videoPath": "",
+    "datetime": "24 Jan 2024 01:11 PM",
+    "description": "Peachy ",
+    "id": "e71de83d-c5f9-4511-8cfb-fd5d3744cb18",
+    "title": "Living will ",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "dzXhuJgyk7OL3cssTVuDzt6eaIz1",
+    "datetime": "12 Feb 2024 10:44 AM",
+    "description": "",
+    "id": "eac337e4-c8a1-4f96-b809-a7ac25b17047",
+    "title": "As of this Date, Miranda J.M. Brongeest is authorized to make all necessary decisions concerning my medical care...",
+    "audioPath": ""
+  },
+  {
+    "videoPath": "",
+    "path": "",
+    "uid": "PHe2EQC5Z9OBJvIbTl96veUh8Yh1",
+    "datetime": "1 Oct 2023 07:22 PM",
+    "description": "Came into the Heart hospital today.. Been having high blood pressure for the past 3 days and along with the high BP having headaches and dizziness was enough for my stubbornness to get me into the hospital. So far. EKG ✔️...MRI ✔️ CAT ✔️ URINE SAMPLE ✔️ BLOOD TEST ✔️ NO information as of yet from the doctor but hopefully everything will be fine and under control by tomorrow. And I can go home to rest.",
+    "id": "ed85110d-6acc-4e79-ae42-7ff14986bed4",
+    "title": "Pressure",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "uid": "5q6FIBTP57Uw5p0e9uougzdGseq2",
+    "videoPath": "",
+    "datetime": "14 Dec 2023 01:13 AM",
+    "description": "Hahue",
+    "id": "f4c2ecae-ff5b-44f0-a222-e8511982d23d",
+    "title": "Hsisj",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "videoPath": "",
+    "uid": "cTZOeqohahMsZjfIQEgeB2vQ2lZ2",
+    "datetime": "24 Nov 2023 03:35 PM",
+    "description": "",
+    "id": "f5eec9d9-088f-4988-9104-65efb5c65701",
+    "title": "No notes",
+    "audioPath": ""
+  },
+  {
+    "path": "",
+    "uid": "KS3P6f8spvfgkIE1L7JzZ9TuqU23",
+    "videoPath": "",
+    "datetime": "18 Jan 2024 11:35 AM",
+    "description": "Please provide all medical treatment to preserve life including but not limited to resuscitation, blood transfusions, breathing assistance, therapy, and treatment.\n\nKatrina N Kelley",
+    "id": "fb353b85-3c78-4057-b2cd-29f8d5b394c3",
+    "title": "Wishes",
+    "audioPath": ""
+  }
+]

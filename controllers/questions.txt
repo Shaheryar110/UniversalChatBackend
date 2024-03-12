@@ -1,0 +1,118 @@
+[
+  {
+    "question": "Is the pain only in the lower part of the abdomen? then you should seek urgent medical attention from a qualified provider. ",
+    "keyword": "Abdominal pain"
+  },
+  {
+    "question": "Do you feel more week or more dizzy than if you had the flu or cold? you should go see your healthcare provider. ",
+    "keyword": "headache"
+  },
+  {
+    "question": "Do you have cough with shortness of breath or chest pain or severe weakness? seek help from an appropriate medical professional.",
+    "keyword": "Fever"
+  },
+  {
+    "question": "Did the headache begin like a thunderclap or is this the worst headache of your life? if you find yourself experiencing this, we strongly recommend you see a doctor immediately.",
+    "keyword": "headache"
+  },
+  {
+    "question": "Do you have muscle weakness in your face, arm or leg? Seek urgent medical care now.",
+    "keyword": "headache"
+  },
+  {
+    "question": "Is the pain progressively getting worse? you should seek urgent medical attention from a qualified provider. ",
+    "keyword": "Abdominal pain"
+  },
+  {
+    "question": "Do you have dark stools, bloody stools, or maroon colored stools, then you should seek urgent medical attention",
+    "keyword": "Abdominal pain"
+  },
+  {
+    "question": "Is the pain so bad that you are doubled over, or cannot walk, then you should seek urgent medical attention",
+    "keyword": "Abdominal pain"
+  },
+  {
+    "question": "Are you vomiting up green, or foul tasting material or blood? you should seek urgent medical attention",
+    "keyword": "Abdominal pain"
+  },
+  {
+    "question": "Headache with fever and lights hurting your eyes is your neck getting stiff? Please seek a qualified medical evaluation ",
+    "keyword": "headache"
+  },
+  {
+    "question": "Do you have pain in your abdomen? do you have vomiting? Do you have dehydration? please see how professional.",
+    "keyword": "Fever"
+  },
+  {
+    "question": "Do you have fever and vomiting, you should seek urgent medical attention",
+    "keyword": "Dizziness"
+  },
+  {
+    "question": "Do you have changes in your vision? You should seek urgent medical evaluation.",
+    "keyword": "Dizziness"
+  },
+  {
+    "question": "Do you have a weakened immune system and have a new headache unlike any that you have experienced before? You should seek a qualified medical evaluation.",
+    "keyword": "headache"
+  },
+  {
+    "question": "Is it associated with constant vomiting then you should seek urgent medical attention",
+    "keyword": "Abdominal pain"
+  },
+  {
+    "question": "Do you have any wounds on your body which are becoming red or draining pus or causing severe pain? Urgently from a qualified medical professional.",
+    "keyword": "Fever"
+  },
+  {
+    "question": "Do you have abdominal pain, vomiting, diarrhea, then you should see urgent, medical attention.",
+    "keyword": "Dizziness"
+  },
+  {
+    "question": "Do you have numbness in your face you should seek urgent medical attention.Do you have weakness in your face, arm or legs? You should seek urgent medical attention ",
+    "keyword": "Dizziness"
+  },
+  {
+    "question": "Does this feel exactly like your typical headache? You can try to treat at home. We would suggest to try to treat this as the usual headache but if something changes to contact your physician",
+    "keyword": "headache"
+  },
+  {
+    "question": "Are you unable to walk? Please seek urgent medical evaluation.",
+    "keyword": "Dizziness"
+  },
+  {
+    "question": "You do not have any other symptoms like weakness, numbness or fever? Seek qualified medical evaluation ",
+    "keyword": "headache"
+  },
+  {
+    "question": "Do you have pain or swelling in your lower legs?. you should see Cal Berkeley from a qualified medical provider.",
+    "keyword": "Fever"
+  },
+  {
+    "question": "Do you have a headache? Is your neck hurting or lights bothering your eyes?  urgent help from a medical professional",
+    "keyword": "Fever"
+  },
+  {
+    "question": "Is it associated with chest pain or shortness of breath, then you should seek urgent medical attention",
+    "keyword": "Abdominal pain"
+  },
+  {
+    "question": "Did the pain suddenly get worse, then you should seek urgent medical attention ",
+    "keyword": "Abdominal pain"
+  },
+  {
+    "question": "Do you have terrible back pain then you should seek urgent medical help qualified provider.",
+    "keyword": "Abdominal pain"
+  },
+  {
+    "question": "Do you have burning when you urinate, back pain, increasing urination? Help originally from a medical professional",
+    "keyword": "Fever"
+  },
+  {
+    "question": "Are you weak dizzy dehydrated? Do you feel like you were going to pass out? Please seek urgent treatment from an appropriate medical professional",
+    "keyword": "Fever"
+  },
+  {
+    "question": "Do you have chest pain, left, arm pain, jaw pain, shortness of breath or back pain, then you should seek urgent medical attention. ",
+    "keyword": "Dizziness"
+  }
+]
